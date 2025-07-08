@@ -1,4 +1,4 @@
-# Classification-models
+# Survival prediction project
 - Data pre-processing
 - future engineering
 # models used for survival prediction:
